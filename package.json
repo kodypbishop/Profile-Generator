@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/kodypbishop/Profile-Generator#readme",
   "dependencies": {
-    "axios": "^0.19.1",
-    "electron-pdf": "^4.0.8",
+    "electron-html-to": "^2.6.0",
+    "electron-prebuilt": "^1.4.13",
     "inquirer": "^7.0.3",
-    "octonode": "^0.9.5"
+    "octonode": "^0.9.5",
+    "save": "^2.4.0"
   }
 }

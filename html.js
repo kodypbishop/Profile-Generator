@@ -42,6 +42,7 @@ module.exports = {
                 background-color: white;
                 -webkit-print-color-adjust: exact !important;
                 font-family: 'Cabin', sans-serif;
+                overflow: hidden;
             }
     
             main {
